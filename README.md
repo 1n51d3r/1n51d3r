@@ -21,3 +21,15 @@ Bug Hunter / Security Researcher — responsible disclosure experience with mult
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1n51d3r&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [My Website](https://jaymonsecurity.es)
+- ✉️ [insider_hack@protonmail.com]
+
+---
+
+> “Security is not a product, it's a process.” – Bruce Schneier
+
